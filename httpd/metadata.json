@@ -1,0 +1,14 @@
+{
+  "name": "sandeep541-httpd",
+  "version": "0.1.0",
+  "author": "sandeep541",
+  "summary": "installation and configiuration of apache with vhost and apache module",
+  "license": "Apache 2.0",
+  "source": "sandeep541",
+  "issues_url": "https://github.com/sandeep541",
+  "project_page": "https://github.com/sandeep541",
+  "dependencies": [
+    {"version_requirement":">= 1.0.0","name":"puppetlabs-stdlib"}
+  ]
+}
+

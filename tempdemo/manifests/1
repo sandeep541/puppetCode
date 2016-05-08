@@ -1,0 +1,7 @@
+class tempdemo{
+file {"/temp/abcdefg.txt":
+	ensure => file,
+	content => "This is a file for template demo"
+}
+
+}
